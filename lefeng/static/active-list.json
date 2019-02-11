@@ -1,0 +1,490 @@
+[  
+    {
+        "brandName": "小迷糊",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10010726_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800126270",
+        "img": "10010726_242",
+        "floor": "1-1"
+    },
+    {
+        "brandName": "阿芙",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000226_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800125770",
+        "img": "10000226_242",
+        "floor": "1-2"
+    }, {
+        "brandName": "御泥坊",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000830_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800125750",
+        "img": "10000830_242",
+        "floor": "1-4"
+    }, {
+        "brandName": "自然堂",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000856_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126245",
+        "img": "10000856_242",
+        "floor": "1-5"
+    }, {
+        "brandName": "里美",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000543_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "60",
+        "brandId": "800126195",
+        "img": "10000543_242",
+        "floor": "1-6"
+    }, {
+        "brandName": "魔法医生",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10010820_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "60",
+        "brandId": "800126170",
+        "img": "10010820_242",
+        "floor": "1-7"
+    }, {
+        "brandName": "丸美",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000750_242.jpg",
+        "promotion": "满298减80 上不封顶",
+        "redbag": "20",
+        "brandId": "800126235",
+        "img": "10000750_242",
+        "floor": "1-8"
+    }, {
+        "brandName": "一叶子",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10004318_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126210",
+        "img": "10004318_242",
+        "floor": "1-9"
+    }, {
+        "brandName": "韩束",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10004349_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126145",
+        "img": "10004349_242",
+        "floor": "1-10"
+    }, {
+        "brandName": "相宜本草",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000778_242.jpg",
+        "promotion": "最高直降240元",
+        "redbag": "20",
+        "brandId": "800125715",
+        "img": "10000778_242",
+        "floor": "1-11"
+    }, {
+        "brandName": "母婴-袋鼠妈妈",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10015807_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "20",
+        "brandId": "800126285",
+        "img": "10015807_242",
+        "floor": "1-12"
+    }, {
+        "brandName": "丝塔芙",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10006055_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126395",
+        "img": "10006055_242",
+        "floor": "1-14"
+    }
+    ,{
+        "brandName": "小迷糊",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10010726_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800126270",
+        "img": "10010726_242",
+        "floor": "1-1"
+    },
+    {
+        "brandName": "阿芙",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000226_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800125770",
+        "img": "10000226_242",
+        "floor": "1-2"
+    }, {
+        "brandName": "御泥坊",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000830_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800125750",
+        "img": "10000830_242",
+        "floor": "1-4"
+    }, {
+        "brandName": "自然堂",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000856_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126245",
+        "img": "10000856_242",
+        "floor": "1-5"
+    }, {
+        "brandName": "里美",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000543_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "60",
+        "brandId": "800126195",
+        "img": "10000543_242",
+        "floor": "1-6"
+    }, {
+        "brandName": "魔法医生",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10010820_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "60",
+        "brandId": "800126170",
+        "img": "10010820_242",
+        "floor": "1-7"
+    }, {
+        "brandName": "丸美",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000750_242.jpg",
+        "promotion": "满298减80 上不封顶",
+        "redbag": "20",
+        "brandId": "800126235",
+        "img": "10000750_242",
+        "floor": "1-8"
+    }, {
+        "brandName": "一叶子",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10004318_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126210",
+        "img": "10004318_242",
+        "floor": "1-9"
+    }, {
+        "brandName": "韩束",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10004349_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126145",
+        "img": "10004349_242",
+        "floor": "1-10"
+    }, {
+        "brandName": "相宜本草",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000778_242.jpg",
+        "promotion": "最高直降240元",
+        "redbag": "20",
+        "brandId": "800125715",
+        "img": "10000778_242",
+        "floor": "1-11"
+    }, {
+        "brandName": "母婴-袋鼠妈妈",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10015807_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "20",
+        "brandId": "800126285",
+        "img": "10015807_242",
+        "floor": "1-12"
+    }, {
+        "brandName": "丝塔芙",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10006055_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126395",
+        "img": "10006055_242",
+        "floor": "1-14"
+    },{
+        "brandName": "小迷糊",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10010726_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800126270",
+        "img": "10010726_242",
+        "floor": "1-1"
+    },
+    {
+        "brandName": "阿芙",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000226_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800125770",
+        "img": "10000226_242",
+        "floor": "1-2"
+    }, {
+        "brandName": "御泥坊",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000830_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800125750",
+        "img": "10000830_242",
+        "floor": "1-4"
+    }, {
+        "brandName": "自然堂",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000856_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126245",
+        "img": "10000856_242",
+        "floor": "1-5"
+    }, {
+        "brandName": "里美",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000543_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "60",
+        "brandId": "800126195",
+        "img": "10000543_242",
+        "floor": "1-6"
+    }, {
+        "brandName": "魔法医生",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10010820_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "60",
+        "brandId": "800126170",
+        "img": "10010820_242",
+        "floor": "1-7"
+    }, {
+        "brandName": "丸美",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000750_242.jpg",
+        "promotion": "满298减80 上不封顶",
+        "redbag": "20",
+        "brandId": "800126235",
+        "img": "10000750_242",
+        "floor": "1-8"
+    }, {
+        "brandName": "一叶子",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10004318_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126210",
+        "img": "10004318_242",
+        "floor": "1-9"
+    }, {
+        "brandName": "韩束",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10004349_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126145",
+        "img": "10004349_242",
+        "floor": "1-10"
+    }, {
+        "brandName": "相宜本草",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000778_242.jpg",
+        "promotion": "最高直降240元",
+        "redbag": "20",
+        "brandId": "800125715",
+        "img": "10000778_242",
+        "floor": "1-11"
+    }, {
+        "brandName": "母婴-袋鼠妈妈",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10015807_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "20",
+        "brandId": "800126285",
+        "img": "10015807_242",
+        "floor": "1-12"
+    }, {
+        "brandName": "丝塔芙",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10006055_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126395",
+        "img": "10006055_242",
+        "floor": "1-14"
+    },{
+        "brandName": "小迷糊",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10010726_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800126270",
+        "img": "10010726_242",
+        "floor": "1-1"
+    },
+    {
+        "brandName": "阿芙",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000226_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800125770",
+        "img": "10000226_242",
+        "floor": "1-2"
+    }, {
+        "brandName": "御泥坊",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000830_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800125750",
+        "img": "10000830_242",
+        "floor": "1-4"
+    }, {
+        "brandName": "自然堂",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000856_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126245",
+        "img": "10000856_242",
+        "floor": "1-5"
+    }, {
+        "brandName": "里美",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000543_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "60",
+        "brandId": "800126195",
+        "img": "10000543_242",
+        "floor": "1-6"
+    }, {
+        "brandName": "魔法医生",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10010820_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "60",
+        "brandId": "800126170",
+        "img": "10010820_242",
+        "floor": "1-7"
+    }, {
+        "brandName": "丸美",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000750_242.jpg",
+        "promotion": "满298减80 上不封顶",
+        "redbag": "20",
+        "brandId": "800126235",
+        "img": "10000750_242",
+        "floor": "1-8"
+    }, {
+        "brandName": "一叶子",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10004318_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126210",
+        "img": "10004318_242",
+        "floor": "1-9"
+    }, {
+        "brandName": "韩束",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10004349_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126145",
+        "img": "10004349_242",
+        "floor": "1-10"
+    }, {
+        "brandName": "相宜本草",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000778_242.jpg",
+        "promotion": "最高直降240元",
+        "redbag": "20",
+        "brandId": "800125715",
+        "img": "10000778_242",
+        "floor": "1-11"
+    }, {
+        "brandName": "母婴-袋鼠妈妈",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10015807_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "20",
+        "brandId": "800126285",
+        "img": "10015807_242",
+        "floor": "1-12"
+    }, {
+        "brandName": "丝塔芙",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10006055_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126395",
+        "img": "10006055_242",
+        "floor": "1-14"
+    }, 
+    {
+        "brandName": "小迷糊",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10010726_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800126270",
+        "img": "10010726_242",
+        "floor": "1-1"
+    },
+    {
+        "brandName": "阿芙",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000226_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800125770",
+        "img": "10000226_242",
+        "floor": "1-2"
+    }, {
+        "brandName": "御泥坊",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000830_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "10",
+        "brandId": "800125750",
+        "img": "10000830_242",
+        "floor": "1-4"
+    }, {
+        "brandName": "自然堂",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000856_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126245",
+        "img": "10000856_242",
+        "floor": "1-5"
+    }, {
+        "brandName": "里美",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000543_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "60",
+        "brandId": "800126195",
+        "img": "10000543_242",
+        "floor": "1-6"
+    }, {
+        "brandName": "魔法医生",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10010820_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "60",
+        "brandId": "800126170",
+        "img": "10010820_242",
+        "floor": "1-7"
+    }, {
+        "brandName": "丸美",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000750_242.jpg",
+        "promotion": "满298减80 上不封顶",
+        "redbag": "20",
+        "brandId": "800126235",
+        "img": "10000750_242",
+        "floor": "1-8"
+    }, {
+        "brandName": "一叶子",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10004318_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126210",
+        "img": "10004318_242",
+        "floor": "1-9"
+    }, {
+        "brandName": "韩束",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10004349_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126145",
+        "img": "10004349_242",
+        "floor": "1-10"
+    }, {
+        "brandName": "相宜本草",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10000778_242.jpg",
+        "promotion": "最高直降240元",
+        "redbag": "20",
+        "brandId": "800125715",
+        "img": "10000778_242",
+        "floor": "1-11"
+    }, {
+        "brandName": "母婴-袋鼠妈妈",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10015807_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "20",
+        "brandId": "800126285",
+        "img": "10015807_242",
+        "floor": "1-12"
+    }, {
+        "brandName": "丝塔芙",
+        "url": "https://h5rsc.vipstatic.com/lefeng_venue/912/10006055_242.jpg",
+        "promotion": "满199减100 上不封顶",
+        "redbag": "70",
+        "brandId": "800126395",
+        "img": "10006055_242",
+        "floor": "1-14"
+    }
+]
